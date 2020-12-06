@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=SUBSTRING
+comment0.text=\r\n\ \r\n\r\n\ @\ momin\ \r\n\ @\ 16/02/2020\r\n
+comment1.params=text\ strPattern\ Index1
+comment1.target=void\ countingPatterns(java.util.List,\ java.util.List,\ int)
+comment2.params=text\ strPattern
+comment2.target=int\ findBrute(java.util.List,\ java.util.List)
+comment2.text=\r\n\ Return\ the\ lowest\ index\ at\ which\ substring\ pattern\ begins\ in\ text\ (or\r\n\ else\ -1).\r\n
+comment3.params=
+comment3.target=SUBSTRING()
+numComments=4
